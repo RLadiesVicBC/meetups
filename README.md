@@ -13,10 +13,10 @@ No commercial agenda: Chapters are started by individuals, not by companies. Cha
 R-Ladies Global is registered as California-based non-profit corporation, run by the Global Leadership team.
 
 ## Web presence
-*Website: https://www.meetup.com/RLadies-Victoria/
-*E-mail: info [at] rladies [dot] org
-*Twitter: @RLadiesVicBC 
-*GitHub: http://github.com/RLadiesVicBC
+-Website: https://www.meetup.com/RLadies-Victoria/  
+-E-mail: info [at] rladies [dot] org  
+-Twitter: @RLadiesVicBC   
+-GitHub: http://github.com/RLadiesVicBC  
 
 
 The term "women and gender minorities" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders.
