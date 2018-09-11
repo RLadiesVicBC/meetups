@@ -21,7 +21,11 @@ R-Ladies Global is registered as California-based non-profit corporation, run by
 The term "women and gender minorities" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders.
 
 
-
+## How to get involved?
+-Support with venue or funding for food and beverages for the meetups
+-Recommend a talk, seminar, or interested speakers
+-Support the meetups through teaching your knoweldge and skills, either leading a workshop or mentoring 
+-Join RLadiesVicBC organizing team [email the team by emailing victoria@rladies.org]
 
 # Meetups for RLadies Victoria, BC
 Please answer this poll to best help organizers in deciding topics for our meetup group: https://www.surveymonkey.com/r/PKKRWVM
