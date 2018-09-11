@@ -9,12 +9,14 @@ Leadership roles within R-Ladies chapters, particularly Organizer and Mentor rol
 ## Accessibility
 Provision of FREE events based on a combination of volunteering and funding/sponsorship where available.
 No commercial agenda: Chapters are started by individuals, not by companies. Chapters can partner with companies for sponsorship in the form of venue space, food or other supplies. Chapters and events may not be ‘used’ by a corporation/as a commercial vehicle for private aims.
-Organizational Structure & Legal Entities: R-Ladies Global is registered as California-based non-profit corporation, run by the Global Leadership team.
+## Organizational Structure & Legal Entities
+R-Ladies Global is registered as California-based non-profit corporation, run by the Global Leadership team.
+
 ## Web presence
-Website: https://www.meetup.com/RLadies-Victoria/
-E-mail: info [at] rladies [dot] org
-Twitter: @RLadiesVicBC 
-GitHub: http://github.com/RLadiesVicBC
+*Website: https://www.meetup.com/RLadies-Victoria/
+*E-mail: info [at] rladies [dot] org
+*Twitter: @RLadiesVicBC 
+*GitHub: http://github.com/RLadiesVicBC
 
 
 The term "women and gender minorities" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders.
