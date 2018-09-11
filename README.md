@@ -6,9 +6,12 @@
 R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.
 ## Leadership
 Leadership roles within R-Ladies chapters, particularly Organizer and Mentor roles, are to be held by women and gender minorities.
+The term "women and gender minorities" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders.
+
 ## Accessibility
-Provision of FREE events based on a combination of volunteering and funding/sponsorship where available.
-No commercial agenda: Chapters are started by individuals, not by companies. Chapters can partner with companies for sponsorship in the form of venue space, food or other supplies. Chapters and events may not be ‘used’ by a corporation/as a commercial vehicle for private aims.
+Provision of FREE events based on a combination of volunteering and funding/sponsorship where available.  
+There are no commercial agendas, chapters are started by individuals, not by companies.   
+
 ## Organizational Structure & Legal Entities
 R-Ladies Global is registered as California-based non-profit corporation, run by the Global Leadership team.
 
@@ -18,7 +21,7 @@ R-Ladies Global is registered as California-based non-profit corporation, run by
 -GitHub: http://github.com/RLadiesVicBC  
 
 
-The term "women and gender minorities" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders.
+
 
 
 ## How to get involved?
