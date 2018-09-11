@@ -13,8 +13,7 @@ No commercial agenda: Chapters are started by individuals, not by companies. Cha
 R-Ladies Global is registered as California-based non-profit corporation, run by the Global Leadership team.
 
 ## Web presence
--Website: https://www.meetup.com/RLadies-Victoria/  
--E-mail: info [at] rladies [dot] org  
+-Website: https://www.meetup.com/RLadies-Victoria/     
 -Twitter: @RLadiesVicBC   
 -GitHub: http://github.com/RLadiesVicBC  
 
