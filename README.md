@@ -31,4 +31,4 @@ R-Ladies Global is registered as California-based non-profit corporation, run by
 -Join RLadiesVicBC organizing team   
 
 # Meetups for RLadies Victoria, BC
-Please answer this [survey](https://www.surveymonkey.com/r/PKKRWVM)  to best help organizers in deciding topics for our meetup group: 
+Please answer this [survey](https://www.surveymonkey.com/r/PKKRWVM)  to best help us in deciding topics for our meetup group. 
